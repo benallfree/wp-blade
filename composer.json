@@ -1,0 +1,14 @@
+{
+    "name": "benallfree/wp-blade",
+    "description": "A mini Blade-esque templating engine for WordPress",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Allfree",
+            "email": "ben@benallfree.com"
+        }
+    ],
+    "require": {
+      "php": ">=5.3.0"
+    }
+}
